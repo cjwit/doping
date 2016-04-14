@@ -1,0 +1,52 @@
+body {
+  background: #dcddde;
+  padding-top: 30px; }
+
+span {
+  font: 12px sans-serif;
+  color: steelBlue;
+  display: block; }
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: steelBlue; }
+
+.container {
+  background: white;
+  display: inline-block;
+  padding: 20px;
+  margin: auto;
+  box-shadow: 2px 2px 5px #646464; }
+
+.title text {
+  fill: steelBlue;
+  font: 24px sans-serif; }
+
+.name {
+  font: 10px sans-serif;
+  color: black; }
+
+.info {
+  line-height: 1;
+  padding: 12px;
+  background: #c3d9ff;
+  color: #444444;
+  position: absolute;
+  text-align: left;
+  font: 12px sans-serif;
+  border-radius: 10px;
+  display: block; }
+  .info span {
+    font: 14px sans-serif;
+    color: black;
+    font-weight: bold; }
+
+.axis text {
+  font: 14px sans-serif; }
+.axis path, .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges; }
+
+/*# sourceMappingURL=styles.css.map */
